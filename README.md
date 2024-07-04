@@ -10,7 +10,7 @@
   Also, I like doing some CTFs and playing games. </p>
 Check out some projects that I've made this year:
 
-- 🔭 Webscrap
-- 🏴 Mation Tool
-- 🌱 Remsoma
+- 🔭 Webscrap;
+- 🏴 Mation Tool;
+- 🌱 Remsoma.
 
